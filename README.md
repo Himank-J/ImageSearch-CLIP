@@ -10,6 +10,13 @@ for the N genuine pairs in the batch while minimizing the cosine similarity for 
 The optimization process involves using a **symmetric cross-entropy loss function** that operates on these 
 similarity scores. 
 
+Input - A text query:  **"Dogs on the grass"**
+
+Output - all relevant images to input query:
+
+<img width="659" alt="Screenshot 2024-07-28 at 9 14 10 PM" src="https://github.com/user-attachments/assets/32b5c1f9-e054-4a2d-a9cd-85ceb068de57">
+
+
 ---
 
 ## What is contrast learning?
